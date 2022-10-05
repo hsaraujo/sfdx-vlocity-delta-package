@@ -12,7 +12,6 @@ Delta packager for vlocity
 [![License](https://img.shields.io/npm/l/sfdx-vlocity-delta-package.svg)](https://github.com/hsaraujo/sfdx-vlocity-delta-package/blob/master/package.json)
 
 <!-- toc -->
-* [Debugging your plugin](#debugging-your-plugin)
 <!-- tocstop -->
 <!-- install -->
 <!-- usage -->
